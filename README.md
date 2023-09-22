@@ -1,7 +1,7 @@
-###AppFlyout
+#AppFlyout
 Projeto destinado a mostrar o design Flyout em um Aplicativo feito com Xamarin.Forms.
 
-##Páginas
+#Páginas
 ---Páginas para navegar:
 AboutPage, CoursesPage, HomePage, LogoutPage.
 
